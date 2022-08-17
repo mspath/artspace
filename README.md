@@ -15,10 +15,10 @@ This is a project from the [Android Basics with Compose] course from Google, see
 
 Environment
 
-- Kotlin 1.6.10
-- Android Studio Bumblebee 2021.1.1
-- Gradle Plugin 7.1.3
+- Kotlin 1.7.0
+- Android Studio Chipmonk 2021.2.1
+- Gradle Plugin 7.2.1
 
 ----
 
-updated: 2022-05-07
+updated: 2022-08-17
