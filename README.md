@@ -16,9 +16,9 @@ This is a project from the [Android Basics with Compose] course from Google, see
 Environment
 
 - Kotlin 1.7.0
-- Android Studio Chipmonk 2021.2.1
-- Gradle Plugin 7.2.1
+- Android Studio Dolphin 2021.3.1
+- Gradle Plugin 7.3.0
 
 ----
 
-updated: 2022-08-17
+updated: 2022-10-07
