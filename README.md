@@ -16,8 +16,8 @@ This is a project from the [Android Basics with Compose] course from Google, see
 Environment
 
 - Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.1
 - Compose 1.3.1
 
 ---
@@ -26,5 +26,5 @@ Environment
 language: kotlin
 repo: artspace
 status: archived
-updated: 2022-12-03
+updated: 2022-02-21
 ```
